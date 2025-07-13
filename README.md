@@ -77,7 +77,7 @@
 
 </li>
 
-<li><a  href="#project-structer">Project Structer</a></li>
+<li><a  href="#project-structure">Project Structure</a></li>
 
 <li><a  href="#usage">Usage</a></li>
 
