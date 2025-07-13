@@ -303,21 +303,16 @@ exit
 
 ### Settings Keys
 
-| key | Description |
+### Settings Keys
 
-| ---------- | ----------- |
-
-| font_size | Font size(int) |
-
-| font_family | Path to TTF font |
-
-| font_color_r/g/b | Font color (R, G, B) |
-
-| bg_color_r/g/b | Background color (R, G, B)|
-
-| bg_opacity | Background transparency(%)|
-
-| auto_scroll | Enable/disable auto scroll|
+| Key             | Description                      |
+|------------------|----------------------------------|
+| font_size       | Font size (int)                  |
+| font_family     | Path to TTF font                 |
+| font_color_r/g/b| Font color (R, G, B)             |
+| bg_color_r/g/b  | Background color (R, G, B)       |
+| bg_opacity      | Background transparency (0–255)  |
+| auto_scroll     | Enable/disable auto scroll       |
 
   
   
